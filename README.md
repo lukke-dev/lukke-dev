@@ -8,13 +8,8 @@
  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
  
 ### Hi there 👋   
-- 🔭 I’m currently working on Ruby on Rails, Javascript, Docker, TDD, React ...
-- 🌱 Visit My [Portfolio](https://my-portfolio-2022.herokuapp.com/pt-BR/portfolio)
-- 💬 Ask me about anything ...
-- 📫 How to reach me: @lucas ...
-- ⚡ Fun fact: B99 is the best ...
+- WORK IN PROGRESS
 
- ![codewars](https://www.codewars.com/users/Lucas-dos-Santos/badges/large)
  <div>
   <a href="https://github.com/lucas-dos-santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukke-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
